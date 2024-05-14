@@ -63,5 +63,18 @@ ___
       <p>Ainda vazio.... :(</p>
 </details></li>
 
+<li><details>
+  <summary> /.MySQL_e_SQL_SERVER/ </summary>
+  <br>
+  <p>tabela.experiencia.sqç( " SOBRE A LINGUAGENS: Linguagens  de extrema útilidade para criação de banco de dados relacional ")</p>
+  <p>--------------------</p>
+  <p>open experiência.sql: Com as abilidades de programação já consolídadas busquei aprender as linguagens de banco de dados MySQL e SQL SERVER que são de extrema importancia para projetos mais complexos</p>
+  <p>--------------------</p>
+  <details>
+    <summary>/.MySQL_e_SQL_SERVER/projetos_SQL/ </summary>
+    <br>
+      <p>Ainda vazio.... :(</p>
+</details></li>
+
 </ul>
 <a href='https://postimg.cc/YvSGR653' target='_blank'><img height="50px" width="50px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon'/></a>
