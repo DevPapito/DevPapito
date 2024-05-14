@@ -1,1 +1,1 @@
-<h2>SEJÁ BEM-VINDO</h2>
+<h1>SEJÁ BEM-VINDO</h1>
