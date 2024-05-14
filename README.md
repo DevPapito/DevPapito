@@ -19,15 +19,18 @@ Programo desde os 7 anos para jogos com tecnologias C++ e Lua, atualmente estou 
 ___
 
 <p> ---- | Seja bem-vindo ao Conhecimentos.exe | --- </p>
-<p> --- Em cada pasta está armazenado os meus conhecimentos do mundo da programação --- </p>
-<p> LABEL LIST ------- DATE: 23/01/2077</p>
+<p> --- Em cada pasta está armazenado os meus conhecimentos do mundo da programação! --- </p>
+<p> LABEL LIST -------
 
 <ul>
 <li><details>
   <summary> /.java/ </summary>
   <p>START ------ </p>
   <p>SOBRE A LINGUAGEM: Uma consolídada linguagem de programação para todos os tipos de software e porte</p>
-  <p>EXPERÍENCIA: Com a certificação Oracle Foundations, muita prática e café...(se você me entende ;) ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software desktop </p>p
+  <p>--------------------</p>
+  <p>EXPERÍENCIA: Com a certificação Oracle Foundations, muita prática e café... (se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software desktop </p>
+  <p>--------------------</p>
+  <p>PROJETOS EM JAVA: </p>
 </details></li>
 
 </ul>
