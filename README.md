@@ -30,7 +30,10 @@ ___
   <p>--------------------</p>
   <p>EXPERÍENCIA: Com a certificação Oracle Foundations, muita prática e café... (se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software desktop </p>
   <p>--------------------</p>
-  <p>PROJETOS EM JAVA: </p>
+  <details>
+    <summary>/.java/projetosJava/ </summary>
+    <p>Ainda vazio.... :(</p>
+  <details>
 </details></li>
 
 </ul>
