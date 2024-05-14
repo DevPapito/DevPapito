@@ -25,7 +25,7 @@ ___
 <ul>
 <li><details>
   <summary> /.java/ </summary>
-
+  <br>
   <p>System.out.print( " SOBRE A LINGUAGEM: Uma consolídada linguagem de programação para todos os tipos de software e porte ")</p>
   <p>--------------------</p>
   <p>experiencia.java: Com a certificação Oracle Foundations, muita prática e café... (se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software desktop </p>
