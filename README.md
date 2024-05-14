@@ -2,7 +2,7 @@
 
 <h1 align="center">SEJÁ BEM-VINDO</h1>
 <h3 align="center">Ao meu <big><i>GITHUB</i></big> :D</h3>
-<h3>P:\Sobre> start Sobre.md</h3>
+<h3>P:\Sobre> type Sobre.txt</h3>
 
 ___
 
@@ -14,7 +14,7 @@ Programo desde os 7 anos para jogos com tecnologias C++ e Lua, atualmente estou 
 
 <br>
 
-<h3>P:\Conhecimentos> type Conhecimentos.txt</h3>
+<h3>P:\Conhecimentos> start Conhecimentos.exe</h3>
 
 ___
 
