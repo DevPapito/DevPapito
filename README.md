@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SEJÁ BEM-VINDO</h1>
-<h3 align="center">Ao meu <big><i>GITHUB</i></big> :D</h3>
+<h3 align="center">Ao meu <i> GIT INIT</i> ;)</h3>
 <h3>P:\Sobre> type Sobre.txt</h3>
 
 ___
