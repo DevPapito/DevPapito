@@ -45,7 +45,20 @@ ___
   <p>open experiência.py:  Com o aprendizado solitário :( e grátis da tão conhecida internet, python foi a minha primeira linguagem de realmente entendimento para lógica de programação e resolução de problemas, hoje focando em automação de processos e conexão com bancos de dados </p>
   <p>--------------------</p>
   <details>
-    <summary>/.java/projetosPython/ </summary>
+    <summary>/.python/projetosPython/ </summary>
+    <br>
+      <p>Ainda vazio.... :(</p>
+</details></li>
+
+<li><details>
+  <summary> /.javaScript_e_html_css/ </summary>
+  <br>
+  <p>console.log( " SOBRE A LINGUAGEM: Uma linguagem extremmente fersatil e poderosa, feita e focada para programação web ")</p>
+  <p>--------------------</p>
+  <p>open experiência.js: Ao aprender as linguagens de marcação HTML e CSS uso do javaScript para melhorar os sites é indescrítivel, possuo como linguagem de apoio para criações WEB, porém não focado em javaScript </p>
+  <p>--------------------</p>
+  <details>
+    <summary>/.javaScript/projetosFront-end/ </summary>
     <br>
       <p>Ainda vazio.... :(</p>
 </details></li>
