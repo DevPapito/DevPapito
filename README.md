@@ -87,3 +87,4 @@ ___
 <a href='https://docs.oracle.com/javase/8/docs/api/' target="_blank" rel="noopener"'><img height="60px" width="60px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
 <a href="https://docs.python.org/pt-br/3/" tagert="_blank" rel="noopener"><img height="50px" width="50px" src="https://i.ibb.co/T0Ttky7/python-icon.png" alt="python-icon com hyperlink para comunidade ofical Java" border="0"></a>
 <a href="https://ibb.co/nmkTX6Q"><img height="50px" width="50px" src="https://i.ibb.co/Syv2k5V/js-icon.png" alt="js-icon" border="0"></a>
+<a href="https://ibb.co/Rj4rfSC"><img height="45px" width="45px" src="https://i.ibb.co/QDjSLc6/html-icon.png" alt="html-icon" border="0"></a>
