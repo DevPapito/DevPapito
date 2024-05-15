@@ -88,3 +88,4 @@ ___
 <a href="https://docs.python.org/pt-br/3/" tagert="_blank" rel="noopener"><img height="50px" width="50px" src="https://i.ibb.co/T0Ttky7/python-icon.png" alt="python-icon com hyperlink para comunidade ofical Java" border="0"></a>
 <a href="https://ibb.co/nmkTX6Q"><img height="50px" width="50px" src="https://i.ibb.co/Syv2k5V/js-icon.png" alt="js-icon" border="0"></a>
 <a href="https://ibb.co/Rj4rfSC"><img height="45px" width="45px" src="https://i.ibb.co/QDjSLc6/html-icon.png" alt="html-icon" border="0"></a>
+<a href="https://ibb.co/fMS24nR"><img height="45px" width="45px" src="https://i.ibb.co/SNxPRdT/cascading-style-sheets-icon.png" alt="cascading-style-sheets-icon" border="0"></a>
