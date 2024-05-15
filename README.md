@@ -79,4 +79,4 @@ ___
 </ul>
 <br>
 <h3>Site ofical das tecnologias</h3>
-<a href='https://docs.oracle.com/javase/8/docs/api/' target=''><img height="50px" width="50px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
+<a href='https://docs.oracle.com/javase/8/docs/api/' target="_blank" rel="noopener"'><img height="50px" width="50px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
