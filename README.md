@@ -1,5 +1,5 @@
 
-
+<!-- HEAD --->
 <h1 align="center">SEJÁ BEM-VINDO</h1>
 <h3 align="center">Ao meu <i> GIT INIT</i> ! :D</h3>
 <h3>P:\Sobre> type Sobre.txt</h3>
@@ -17,12 +17,14 @@ Programo desde os 7 anos para jogos com tecnologias C++ e Lua, atualmente estou 
 <h3>P:\Conhecimentos> start Conhecimentos.exe</h3>
 
 ___
-
+<!-- BODY --->
 <p> ---- | Seja bem-vindo ao Conhecimentos.exe | --- </p>
 <p> --- Em cada pasta está armazenado os meus conhecimentos do mundo da programação! --- </p>
 <p> LABEL LIST -------
 
 <ul>
+  
+<!-- Java --->
 <li><details>
   <summary> /.java/ </summary>
   <br>
@@ -37,6 +39,7 @@ ___
       <p>Ainda vazio.... :(</p>
 </details></li>
 
+<!-- pythom --->
 <li><details>
   <summary> /.python/ </summary>
   <br>
@@ -50,6 +53,7 @@ ___
       <p>Ainda vazio.... :(</p>
 </details></li>
 
+<!-- JavaScript, hmtl e css --->
 <li><details>
   <summary> /.javaScript_e_html_css/ </summary>
   <br>
@@ -63,6 +67,7 @@ ___
       <p>Ainda vazio.... :(</p>
 </details></li>
 
+<!-- MY SQL E SQL SERVER --->
 <li><details>
   <summary> /.MySQL_e_SQL_SERVER/ </summary>
   <br>
@@ -78,5 +83,6 @@ ___
   
 </ul>
 <br>
-<h3>Site ofical das tecnologias</h3>
-<a href='https://docs.oracle.com/javase/8/docs/api/' target="_blank" rel="noopener"'><img height="50px" width="50px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
+<h2>Documentação ofical das tecnologias</h2>
+<a href='https://docs.oracle.com/javase/8/docs/api/' target="_blank" rel="noopener"'><img height="60px" width="60px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
+<a href="https://docs.python.org/pt-br/3/" tagert="_blank" rel="noopener"><img height="70px" width="70px" src="https://i.ibb.co/T0Ttky7/python-icon.png" alt="python-icon com hyperlink para comunidade ofical Java" border="0"></a>
