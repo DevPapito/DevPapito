@@ -84,8 +84,13 @@ ___
 </ul>
 <br>
 <h2>Documentação ofical das tecnologias</h2>
+<!--JAVA IMAGE--->
 <a href='https://docs.oracle.com/javase/8/docs/api/' target="_blank" rel="noopener"'><img height="60px" width="60px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
-<a href="https://docs.python.org/pt-br/3/" tagert="_blank" rel="noopener"><img height="50px" width="50px" src="https://i.ibb.co/T0Ttky7/python-icon.png" alt="python-icon com hyperlink para comunidade ofical Java" border="0"></a>
-<a href="https://ibb.co/nmkTX6Q"><img height="50px" width="50px" src="https://i.ibb.co/Syv2k5V/js-icon.png" alt="js-icon" border="0"></a>
-<a href="https://ibb.co/Rj4rfSC"><img height="45px" width="45px" src="https://i.ibb.co/QDjSLc6/html-icon.png" alt="html-icon" border="0"></a>
-<a href="https://ibb.co/fMS24nR"><img height="45px" width="45px" src="https://i.ibb.co/SNxPRdT/cascading-style-sheets-icon.png" alt="cascading-style-sheets-icon" border="0"></a>
+<!--Python IMAGE--->
+<a href="https://docs.python.org/pt-br/3/" tagert="_blank" rel="noopener"><img height="50px" width="50px" src="https://i.ibb.co/T0Ttky7/python-icon.png" alt="python-icon com hyperlink para comunidade ofical Python" border="0"></a>
+<!--JAVASCRIPT IMAGE--->
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="50px" width="50px" src="https://i.ibb.co/Syv2k5V/js-icon.png" alt="JavaScipt-icon com hyperlink para comunidade ofical JavaScript" border="0"></a>
+<!--HMTL IMAGE--->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" width="45px" src="https://i.ibb.co/QDjSLc6/html-icon.png" alt="html-icon  com hyperlink para comunidade ofical html" border="0"></a>
+<!--CSS IMAGE--->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" width="45px" src="https://i.ibb.co/SNxPRdT/cascading-style-sheets-icon.png" alt="CSS-icon com hyperlink para comunidade ofical css" border="0"></a>
