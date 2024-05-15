@@ -75,6 +75,8 @@ ___
     <br>
       <p>Ainda vazio.... :(</p>
 </details></li>
-
+  
 </ul>
-<a href='https://postimg.cc/YvSGR653' target='_blank'><img height="50px" width="50px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon'/></a>
+<br>
+<h3>Site ofical das tecnologias</h3>
+<a href='https://docs.oracle.com/javase/8/docs/api/' target='_blank'><img height="50px" width="50px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para comunidade oficil Java'/></a>
