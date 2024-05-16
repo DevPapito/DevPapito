@@ -94,3 +94,5 @@ ___
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" width="45px" src="https://i.ibb.co/QDjSLc6/html-icon.png" alt="html-icon  com hyperlink para comunidade ofical html" border="0"></a>
 <!--CSS IMAGE--->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" width="45px" src="https://i.ibb.co/SNxPRdT/cascading-style-sheets-icon.png" alt="CSS-icon com hyperlink para comunidade ofical css" border="0"></a>
+<!--MySQL IMAGE--->
+<a href="<a href="https://dev.mysql.com/doc/"><img height="45px" width="45px" src="https://i.ibb.co/dp1cmxx/mysql-icon.png" alt="mysql-icon" border="0"></a>
