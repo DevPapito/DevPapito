@@ -1,6 +1,6 @@
 
 <!-- HEAD --->
-<h1 align="center">SEJÁ BEM-VINDO</h1>
+<h1 align="center">SEJA BEM-VINDO</h1>
 <h3 align="center">Ao meu <i> GIT INIT</i> ! :D</h3>
 <h3>P:\Sobre> type Sobre.txt</h3>
 
