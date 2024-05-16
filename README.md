@@ -97,4 +97,4 @@ ___
 <!--MySQL IMAGE--->
 <a href="https://dev.mysql.com/doc/"><img height="45px" width="45px" src="https://i.ibb.co/dp1cmxx/mysql-icon.png" alt="mysql-icon com hyperlink para documentação oficial MySQL" border="0"></a>
 <!---Microsoft SQL Server--->
-<a href="https://ibb.co/6RWNbP8"><img height="45px" width="45px" src="https://i.ibb.co/tMJ3csz/sql-server-icon.png" alt="sql-server-icon com hyperlink para documentação oficial Microsoft SQL Server " border="0"></a>
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img height="45px" width="45px" src="https://i.ibb.co/tMJ3csz/sql-server-icon.png" alt="sql-server-icon com hyperlink para documentação oficial Microsoft SQL Server " border="0"></a>
