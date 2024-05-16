@@ -30,7 +30,7 @@ ___
   <br>
   <p>System.out.println( " SOBRE A LINGUAGEM: Uma consolidada linguagem de programação para todos os tipos de software e porte ")</p>
   <p>--------------------</p>
-  <p>open experiência.java:  Com a certificação Oracle Foundations, muita prática e café… (se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software.
+  <p>open experiência.java:  Com a certificação Oracle Foundations, muita prática e café… ( se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software.
     desktop </p>
   <p>--------------------</p>
   <details>
