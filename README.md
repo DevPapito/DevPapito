@@ -101,7 +101,7 @@ ___
 <br>
 <br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DevPapito&count_private=true&theme=tokyonight&showicons=true)]()
+<!--- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DevPapito&count_private=true&theme=tokyonight&showicons=true)]() --->
 
 <h3>index_Portifólio.html</h3>
 
