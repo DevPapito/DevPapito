@@ -32,10 +32,11 @@ ___
   <p>--------------------</p>
   <p>open experiência.java:  Com a certificação Oracle Foundations, muita prática e café… ( se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software e desktop </p>
   <p>--------------------</p>
-  <details>
+<!--   <details>
     <summary>/.java/projetosJava/ </summary>
     <br>
       <p>Ainda vazio.... :(</p>
+  </details> -->
 </details></li>
 
 <!-- pythom --->
@@ -46,10 +47,11 @@ ___
   <p>--------------------</p>
   <p>open experiência.py:  Com o aprendizado solitário :( e grátis da tão conhecida internet, python foi a minha primeira linguagem de realmente entendimento para lógica de programação e resolução de problemas, hoje focando em automação de processos e conexão com bancos de dados. </p>
   <p>--------------------</p>
-  <details>
+<!--   <details>
     <summary>/.python/projetosPython/ </summary>
     <br>
       <p>Ainda vazio.... :(</p>
+  </details> -->
 </details></li>
 
 <!-- JavaScript, hmtl e css --->
@@ -60,10 +62,11 @@ ___
   <p>--------------------</p>
   <p>open experiência.js: Ao aprender as linguagens de marcação HTML e CSS, o uso do JavaScript para melhorar os sites é indescritível. Possuo como linguagem de apoio para criações WEB, porém não estou focado em JavaScript. </p>
   <p>--------------------</p>
-  <details>
+<!--   <details>
     <summary>/.javaScript/projetosFront-end/ </summary>
     <br>
       <p>Ainda vazio.... :(</p>
+  </details> -->
 </details></li>
 
 <!-- MY SQL E SQL SERVER --->
@@ -74,10 +77,11 @@ ___
   <p>--------------------</p>
   <p>open experiência.sql: Com as abilidades de programação já consolídadas busquei aprender as linguagens de banco de dados MySQL e SQL SERVER que são de extrema importancia para projetos mais complexos.</p>
   <p>--------------------</p>
-  <details>
+<!--   <details>
     <summary>/.MySQL_e_SQL_SERVER/projetos_SQL/ </summary>
     <br>
       <p>Ainda vazio.... :(</p>
+  </details> -->
 </details></li>
   
 </ul>
