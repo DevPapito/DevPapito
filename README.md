@@ -4,7 +4,7 @@
 
 <h3 align="center">Ao meu <i> GIT INIT</i> ! :D</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=435&lines=P:\Sobre>+type+Sobre.txt;Gosto+de+café!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=535&lines=P:\Sobre>+type+Sobre.txt;Eu+não+roubei+isso+de+ninguém+eu+juro+>:D)](https://git.io/typing-svg)
 
 ___
 
