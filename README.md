@@ -30,9 +30,8 @@ ___
 <li><details>
   <summary> /.java/ </summary>
   <br>
-  <p>System.out.println( " SOBRE A LINGUAGEM: Uma consolidada linguagem de programação para todos os tipos de software e porte ")</p>
   <p>--------------------</p>
-  <p>open experiência.java:  Com a certificação Oracle Foundations, muita prática e café… ( se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software e desktop </p>
+  <p> Com a certificação Oracle Foundations, muita prática e café… ( se você me entende :D ) venho melhorando e aprimorando meus conhecimentos em Java focando em criação de software e desktop </p>
   <p>--------------------</p>
 <!--   <details>
     <summary>/.java/projetosJava/ </summary>
@@ -45,9 +44,8 @@ ___
 <li><details>
   <summary> /.python/ </summary>
   <br>
-  <p>print( ' SOBRE A LINGUAGEM: Uma ótima linguagem de programação para automação e machine learning ')</p>
   <p>--------------------</p>
-  <p>open experiência.py:  Com o aprendizado solitário :( e grátis da tão conhecida internet, python foi a minha primeira linguagem de realmente entendimento para lógica de programação e resolução de problemas, hoje focando em automação de processos e conexão com bancos de dados. </p>
+  <p>Com o aprendizado solitário :( e grátis da tão conhecida internet, python foi a minha primeira linguagem de realmente entendimento para lógica de programação e resolução de problemas, hoje focando em automação de processos e conexão com bancos de dados. </p>
   <p>--------------------</p>
 <!--   <details>
     <summary>/.python/projetosPython/ </summary>
@@ -60,9 +58,8 @@ ___
 <li><details>
   <summary> /.javaScript_e_html_css/ </summary>
   <br>
-  <p>console.log( " SOBRE A LINGUAGEM: Uma linguagem extremamente versátil e poderosa, feita e focada para programação web ")</p>
   <p>--------------------</p>
-  <p>open experiência.js: Ao aprender as linguagens de marcação HTML e CSS, o uso do JavaScript para melhorar os sites é indescritível. Possuo como linguagem de apoio para criações WEB, porém não estou focado em JavaScript. </p>
+  <p>Ao aprender as linguagens de marcação HTML e CSS, o uso do JavaScript para melhorar os sites é indescritível. Possuo como linguagem de apoio para criações WEB, porém não estou focado em JavaScript. </p>
   <p>--------------------</p>
 <!--   <details>
     <summary>/.javaScript/projetosFront-end/ </summary>
@@ -75,9 +72,8 @@ ___
 <li><details>
   <summary> /.MySQL_e_SQL_SERVER/ </summary>
   <br>
-  <p>tabela.experiencia.sqç( " SOBRE AS LINGUAGENS: Linguagens de extrema utilidade para a criação de bancos de dados relacionais ")</p>
   <p>--------------------</p>
-  <p>open experiência.sql: Com as abilidades de programação já consolídadas busquei aprender as linguagens de banco de dados MySQL e SQL SERVER que são de extrema importancia para projetos mais complexos.</p>
+  <p>Com as abilidades de programação já consolídadas busquei aprender as linguagens de banco de dados MySQL e SQL SERVER que são de extrema importancia para projetos mais complexos.</p>
   <p>--------------------</p>
 <!--   <details>
     <summary>/.MySQL_e_SQL_SERVER/projetos_SQL/ </summary>
