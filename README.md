@@ -1,8 +1,10 @@
 
 <!-- HEAD --->
 <h1 align="center">SEJA BEM-VINDO</h1>
+
 <h3 align="center">Ao meu <i> GIT INIT</i> ! :D</h3>
-<h3>P:\Sobre> type Sobre.txt</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=435&lines=P:\Sobre>+type+Sobre.txt;Gosto+de+café!)](https://git.io/typing-svg)
 
 ___
 
@@ -14,13 +16,13 @@ Programo desde os 7 anos para jogos com tecnologias C++ e Lua, atualmente estou 
 
 <br>
 
-<h3>P:\Conhecimentos> start Conhecimentos.exe</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=535&lines=P:\Conhecimentos>+start+Conhecimentos.exe;Programa+Inicializando...+!)](https://git.io/typing-svg)
 ___
 <!-- BODY --->
-<p> ---- | Seja bem-vindo ao Conhecimentos.exe | --- </p>
-<p> --- Em cada pasta estão armazenados os meus conhecimentos do mundo da programação! --- </p>
-<p> LABEL LIST -------
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=5000&pause=500&color=00D714&background=010009&vCenter=true&random=false&width=950&lines=----+|+Seja+bem-vindo+ao+Conhecimentos.exe+|+---;---+Em+cada+pasta+estão+armazenados+os+meus+conhecimentos+do+mundo+da+programação!+---)](https://git.io/typing-svg)
+
+<p>
 
 <ul>
   
