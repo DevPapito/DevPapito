@@ -1,15 +1,10 @@
 
-<!-- HEAD --->
-<h1 align="center">SEJA BEM-VINDO</h1>
-
-<h3 align="center">Ao meu <i> GIT INIT</i> ! :D</h3>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=535&lines=P:\Sobre>+type+Sobre.txt;Eu+não+roubei+isso+de+ninguém+eu+juro+>:D)](https://git.io/typing-svg)
 
 ___
 
 
-<p>Coding is Life
+<p>Um jovem programador de 17 anos aprendendo a programar todos os dias!
 </p>
 
 <br>
@@ -82,17 +77,11 @@ ___
   
 </ul>
 <br>
-<h2>Documentação oficial das tecnologias</h2>
+<h2>TECNOLOGIAS</h2>
 <!--JAVA IMAGE--->
 <a href='https://docs.oracle.com/javase/8/docs/api/' target="_blank" rel="noopener"'><img height="60px" width="60px" src='https://i.postimg.cc/YvSGR653/java-icon.png' border='0' alt='java-icon com hyperlink para documentação oficil Java'/></a>
 <!--Python IMAGE--->
 <a href="https://docs.python.org/pt-br/3/" tagert="_blank" rel="noopener"><img height="50px" width="50px" src="https://i.ibb.co/T0Ttky7/python-icon.png" alt="python-icon com hyperlink para documentação oficial Python" border="0"></a>
-<!--JAVASCRIPT IMAGE--->
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="50px" width="50px" src="https://i.ibb.co/Syv2k5V/js-icon.png" alt="JavaScipt-icon com hyperlink para documentação oficial JavaScript" border="0"></a>
-<!--HMTL IMAGE--->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="45px" width="45px" src="https://i.ibb.co/QDjSLc6/html-icon.png" alt="html-icon  com hyperlink para documentação oficial html" border="0"></a>
-<!--CSS IMAGE--->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="45px" width="45px" src="https://i.ibb.co/SNxPRdT/cascading-style-sheets-icon.png" alt="CSS-icon com hyperlink para documentação oficial css" border="0"></a>
 <!--MySQL IMAGE--->
 <a href="https://dev.mysql.com/doc/"><img height="45px" width="45px" src="https://i.ibb.co/dp1cmxx/mysql-icon.png" alt="mysql-icon com hyperlink para documentação oficial MySQL" border="0"></a>
 <!---Microsoft SQL Server--->
@@ -103,7 +92,7 @@ ___
 
 <!--- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DevPapito&count_private=true&theme=tokyonight&showicons=true)]() --->
 
-<h3>index_Portifólio.html</h3>
+<h3>Projetos!</h3>
 
 ___
 
