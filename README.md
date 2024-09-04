@@ -9,9 +9,7 @@
 ___
 
 
-<p>Me chamo Pietro, tenho 17, amo programação e faço dela não só uma atividade de profissão, mas de hobby e lazer. 
-  
-Programo desde os 7 anos para jogos com tecnologias C++ e Lua, atualmente estou estudando na área do desenvolvimento fullstack.
+<p>Coding is Life
 </p>
 
 <br>
