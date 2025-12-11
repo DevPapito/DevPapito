@@ -21,7 +21,7 @@ ___
 <br>
 <br>
 
-<h3>Meus TOP 3 Projetos!</h3>
+<!-- <h3>Meus TOP 3 Projetos!</h3>
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 <a href="https://github.com/DevPapito/listasite/tree/main"> ListaSite</a>
 
-<a href="https://github.com/DevPapito/project_Anotador"> Projeto_Anotador</a>
+<a href="https://github.com/DevPapito/project_Anotador"> Projeto_Anotador</a> -->
