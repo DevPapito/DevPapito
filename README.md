@@ -1,11 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=535&lines=C:\olaGit>+type+olaGit.txt;Seja+bem-vindo+ao+meu+git+!)](https://git.io/typing-svg)
 
-___
-
-<h3>Sobre</h3>
-<p>Programando e vivendo... talvez mais programando :D
-</p>
+## Sobre
+Programando e vivendo... talvez mais programando :D
 
 <br>
 <h2>TECNOLOGIAS</h2>
