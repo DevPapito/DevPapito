@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=535&lines=C:\olaGit>+type+olaGit.txt;Seja+bem-vindo+ao+meu+git+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=20&duration=1000&pause=1000&color=FCFCFC&background=&vCenter=true&random=false&width=535&lines=devpapito:github$+cat+welcome.txt;Welcome+to+my+github!)](https://git.io/typing-svg)
 
 ## Sobre
 Programando e vivendo... talvez mais programando :D
